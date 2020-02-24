@@ -1,4 +1,4 @@
-# 4. Sample Application -TODO List API-
+# TODO List API-
 
 We are going to develop a tiny RESTful API for the TODO application that contains the following features:
 
